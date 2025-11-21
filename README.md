@@ -38,14 +38,14 @@ Machine Learning Basics • Prompt Engineering
 
 ## 🔥 Featured Projects
 
-### 🏥 **Hospital Management System**
+### 🏥 **Hospital Management System:** https://prescipto-vercel-frontend-d86j.vercel.app/
 A complete system for managing patients, doctors, and appointments.  
 **Tech:** Node.js, Express, MongoDB  
 **Highlights:** Authentication, APIs, admin panel
 
 ---
 
-### ✔️ **To-Do App With Authentication**
+### ✔️ **To-Do App With Authentication** : https://todo-frontend-vercel-opal.vercel.app/
 A secure application with user login, protected routes, and task management.  
 **Tech:** MERN  
 **Highlights:** JWT, reusable components, CRUD operations
@@ -54,7 +54,7 @@ A secure application with user login, protected routes, and task management.
 
 ### 🌐 **Portfolio Website**
 Clean and modern personal portfolio showcasing skills and projects.
-
+**portfolio website:** https://portfolio-website-git-main-aman-bhatts-projects-370ce1c5.vercel.app/
 ---
 
 ### 🤖 **LLM Experiments (Work in Progress)**
