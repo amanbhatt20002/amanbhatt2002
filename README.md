@@ -17,6 +17,20 @@
 - 💬 Always ready to collaborate & contribute to meaningful projects  
 
 ---
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=amanbhatt20002&show_icons=true&theme=tokyonight" height="160" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=amanbhatt20002&theme=tokyonight" height="160" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=amanbhatt20002&layout=compact&theme=tokyonight" height="160">
+</p>
+
+---
 
 ## 🛠️ Tech Stack
 
@@ -74,20 +88,7 @@ Clean and modern personal portfolio showcasing skills and projects.
 - 🔥 Deep desire to enter open-source and grow through mentorship  
 - 🌟 Highly consistent, curious, and willing to push beyond comfort zone  
 
----
 
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=amanbhatt20002&show_icons=true&theme=tokyonight" height="160" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=amanbhatt20002&theme=tokyonight" height="160" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=amanbhatt20002&layout=compact&theme=tokyonight" height="160">
-</p>
-
----
 
 ## 🌐 Connect With Me
 
